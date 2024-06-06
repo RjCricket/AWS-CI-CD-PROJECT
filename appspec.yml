@@ -1,6 +1,6 @@
 version: 0.0
 os: linux
-
+   
 hooks:
   ApplicationStop:
     - location: stop_container.sh
